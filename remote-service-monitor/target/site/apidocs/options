@@ -1,0 +1,25 @@
+-classpath
+'/Users/akshayhiremath/.m2/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/Users/akshayhiremath/.m2/repository/org/springframework/spring-beans/4.0.5.RELEASE/spring-beans-4.0.5.RELEASE.jar:/Users/akshayhiremath/.m2/repository/org/springframework/spring-context/4.0.5.RELEASE/spring-context-4.0.5.RELEASE.jar:/Users/akshayhiremath/.m2/repository/org/springframework/spring-expression/4.0.5.RELEASE/spring-expression-4.0.5.RELEASE.jar:/Users/akshayhiremath/.m2/repository/org/springframework/spring-core/4.0.5.RELEASE/spring-core-4.0.5.RELEASE.jar:/Users/akshayhiremath/.m2/repository/org/springframework/spring-aop/4.0.5.RELEASE/spring-aop-4.0.5.RELEASE.jar:/Users/akshayhiremath/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar'
+-encoding
+'UTF-8'
+-private
+-sourcepath
+'/Users/akshayhiremath/Workshop/Code/monitoring/remote-service-monitor/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2019. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/akshayhiremath/Workshop/Code/monitoring/remote-service-monitor/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'remote-monitor 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/akshayhiremath/Workshop/Code/monitoring/remote-service-monitor/target/javadoc-bundle-options'
+-nohelp
+-use
+-version
+-windowtitle
+'remote-monitor 0.0.1-SNAPSHOT API'
